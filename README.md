@@ -37,7 +37,7 @@ This web application features **generating** and **solving** standard 9-by-9 Sud
 ---
 
 ### Test cases
-A collection of test grids of various difficulty levels are present in the [`Test_Cases`](./Test_Cases) directory. These text files are used for the **initial** Sudoku boards of respective difficulty levels. When the user clicks the "Refresh puzzle" button, **random** Sudoku boards are subsequently generated via the approach proposed by Rob McGuir [1].
+A cRefresh puzzle" button, **random** Sudoku boards are subsequently generated via the approach proposed by Rob McGuir [1].
 
 ---
 
