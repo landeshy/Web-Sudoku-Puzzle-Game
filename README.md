@@ -1,4 +1,5 @@
 Web Sudoku Puzzle Game
+new game
 ======================
 
 <p align="left">
